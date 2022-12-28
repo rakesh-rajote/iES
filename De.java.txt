@@ -1,0 +1,19 @@
+public class De{
+       
+          public static void main(String ...args)
+{
+system.out.println("hi");
+int i=10;
+
+//for cr-122
+public void doProcess(){
+
+//logic
+}
+public void doProcess(){
+
+//logic
+}
+
+}
+}
